@@ -876,6 +876,17 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/aws-partitions-1.141.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-partitions (v1.143.0, rbenv: 2.6.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/aws-partitions-1.143.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/aws-partitions-1.143.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-core (v2.11.54, rbenv: 2.5.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -1014,6 +1025,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/aws-sdk-s3-1.30.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-s3 (v1.31.0, rbenv: 2.6.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/aws-sdk-s3-1.31.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/aws-sdk-s3-1.31.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sigv4 (v1.0.2, rbenv: 2.5.0) [gem]" type="rubylib">
@@ -3285,6 +3307,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/faker-1.9.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="faker (v1.9.3, rbenv: 2.6.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/faker-1.9.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/faker-1.9.3/lib" />
       </SOURCES>
     </library>
     <library name="faraday (v0.14.0, rbenv: 2.5.0) [gem]" type="rubylib">
