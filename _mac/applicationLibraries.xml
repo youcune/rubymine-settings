@@ -6822,6 +6822,28 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/loofah-2.2.3/benchmark" />
       </excluded>
     </library>
+    <library name="m3ch_rb (v0.1.0@842c8c, rbenv: 2.6.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/bundler/gems/m3ch_rb-842c8ccda5bf/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/bundler/gems/m3ch_rb-842c8ccda5bf/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/bundler/gems/m3ch_rb-842c8ccda5bf/.git" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/bundler/gems/m3ch_rb-842c8ccda5bf/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/bundler/gems/m3ch_rb-842c8ccda5bf/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/bundler/gems/m3ch_rb-842c8ccda5bf/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/bundler/gems/m3ch_rb-842c8ccda5bf/.git" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/bundler/gems/m3ch_rb-842c8ccda5bf/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/bundler/gems/m3ch_rb-842c8ccda5bf/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/bundler/gems/m3ch_rb-842c8ccda5bf/.git" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/bundler/gems/m3ch_rb-842c8ccda5bf/spec" />
+      </excluded>
+    </library>
     <library name="mail (v2.7.0, rbenv: 2.5.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
