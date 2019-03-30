@@ -4990,6 +4990,17 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/faraday-0.15.4/lib" />
       </SOURCES>
     </library>
+    <library name="faraday (v0.15.4, rbenv: 2.6.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/faraday-0.15.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/faraday-0.15.4/lib" />
+      </SOURCES>
+    </library>
     <library name="faraday_middleware (v0.12.2, rbenv: 2.5.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -9359,6 +9370,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/multipart-post-2.0.0/test" />
+      </excluded>
+    </library>
+    <library name="multipart-post (v2.0.0, rbenv: 2.6.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/multipart-post-2.0.0/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/multipart-post-2.0.0/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/multipart-post-2.0.0/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/multipart-post-2.0.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/multipart-post-2.0.0/test" />
       </excluded>
     </library>
     <library name="mutex_m (v0.1.0, rbenv: 2.6.0) [gem]" type="rubylib">
