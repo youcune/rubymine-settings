@@ -10213,6 +10213,17 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/padrino-support-0.13.3.4/test" />
       </excluded>
     </library>
+    <library name="pagy (v2.1.5, rbenv: 2.6.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/pagy-2.1.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/pagy-2.1.5/lib" />
+      </SOURCES>
+    </library>
     <library name="parallel (v1.12.1, rbenv: 2.5.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
