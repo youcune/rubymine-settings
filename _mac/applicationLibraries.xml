@@ -8025,6 +8025,28 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/bundler/gems/m3ch_rb-096fa96c8a2b/spec" />
       </excluded>
     </library>
+    <library name="m3ch_rb (v0.1.0@50849f, rbenv: 2.6.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/bundler/gems/m3ch_rb-50849f0f250a/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/bundler/gems/m3ch_rb-50849f0f250a/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/bundler/gems/m3ch_rb-50849f0f250a/.git" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/bundler/gems/m3ch_rb-50849f0f250a/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/bundler/gems/m3ch_rb-50849f0f250a/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/bundler/gems/m3ch_rb-50849f0f250a/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/bundler/gems/m3ch_rb-50849f0f250a/.git" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/bundler/gems/m3ch_rb-50849f0f250a/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/bundler/gems/m3ch_rb-50849f0f250a/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/bundler/gems/m3ch_rb-50849f0f250a/.git" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/bundler/gems/m3ch_rb-50849f0f250a/spec" />
+      </excluded>
+    </library>
     <library name="m3ch_rb (v0.1.0@842c8c, rbenv: 2.6.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
