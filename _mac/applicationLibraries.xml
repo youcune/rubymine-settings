@@ -4962,6 +4962,28 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/bundler/gems/m3ch_rb-ab3691468678/spec" />
       </excluded>
     </library>
+    <library name="m3ch_rb (v0.1.0@ac037e, rbenv: 2.5.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/bundler/gems/m3ch_rb-ac037e5c97b5/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/bundler/gems/m3ch_rb-ac037e5c97b5/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/bundler/gems/m3ch_rb-ac037e5c97b5/.git" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/bundler/gems/m3ch_rb-ac037e5c97b5/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/bundler/gems/m3ch_rb-ac037e5c97b5/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/bundler/gems/m3ch_rb-ac037e5c97b5/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/bundler/gems/m3ch_rb-ac037e5c97b5/.git" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/bundler/gems/m3ch_rb-ac037e5c97b5/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/bundler/gems/m3ch_rb-ac037e5c97b5/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/bundler/gems/m3ch_rb-ac037e5c97b5/.git" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/bundler/gems/m3ch_rb-ac037e5c97b5/spec" />
+      </excluded>
+    </library>
     <library name="mail (v2.7.0, rbenv: 2.5.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
