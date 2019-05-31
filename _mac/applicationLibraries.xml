@@ -800,6 +800,17 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/aws-partitions-1.165.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-partitions (v1.170.0, rbenv: 2.6.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/aws-partitions-1.170.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/aws-partitions-1.170.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-core (v2.11.54, rbenv: 2.5.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -883,6 +894,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/aws-sdk-core-3.53.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-core (v3.54.1, rbenv: 2.6.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/aws-sdk-core-3.54.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/aws-sdk-core-3.54.1/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-kms (v1.14.0, rbenv: 2.6.2) [gem]" type="rubylib">
@@ -1004,6 +1026,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/aws-sdk-s3-1.40.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-s3 (v1.41.0, rbenv: 2.6.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/aws-sdk-s3-1.41.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/aws-sdk-s3-1.41.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sigv4 (v1.0.2, rbenv: 2.5.0) [gem]" type="rubylib">
@@ -1316,14 +1349,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/bootsnap/1.4.2" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/bootsnap-1.4.2/bin" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/bootsnap-1.4.2/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/bootsnap-1.4.2/lib" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/bootsnap-1.4.2/.github" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/bootsnap/1.4.2" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/bootsnap-1.4.2/bin" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/bootsnap-1.4.2/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/bootsnap-1.4.2/lib" />
@@ -1340,12 +1371,14 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/bootsnap/1.4.3" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/bootsnap-1.4.3/bin" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/bootsnap-1.4.3/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/bootsnap-1.4.3/lib" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/bootsnap-1.4.3/.github" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/bootsnap/1.4.3" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/bootsnap-1.4.3/bin" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/bootsnap-1.4.3/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/bootsnap-1.4.3/lib" />
@@ -2394,18 +2427,34 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/2.6.0/csv/core_ext" />
       </excluded>
     </library>
+    <library name="curb (v0.9.10, rbenv: 2.6.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/curb-0.9.10/ext" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/curb-0.9.10/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/curb-0.9.10/tests" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/curb-0.9.10/ext" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/curb-0.9.10/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/curb-0.9.10/tests" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/curb-0.9.10/tests" />
+      </excluded>
+    </library>
     <library name="curb (v0.9.9, rbenv: 2.6.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/curb/0.9.9" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/curb-0.9.9/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/curb-0.9.9/lib" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/curb-0.9.9/tests" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/curb/0.9.9" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/curb-0.9.9/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/curb-0.9.9/lib" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/curb-0.9.9/tests" />
@@ -3257,11 +3306,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/ffi/1.11.1" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/ffi-1.11.1/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/ffi-1.11.1/lib" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/ffi-1.11.1/samples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/ffi/1.11.1" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/ffi-1.11.1/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/ffi-1.11.1/lib" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/ffi-1.11.1/samples" />
@@ -3776,6 +3827,25 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/haml-5.0.4/yard" />
       </excluded>
     </library>
+    <library name="haml (v5.1.1, rbenv: 2.6.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/haml-5.1.1/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/haml-5.1.1/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/haml-5.1.1/yard" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/haml-5.1.1/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/haml-5.1.1/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/haml-5.1.1/yard" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/haml-5.1.1/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/haml-5.1.1/yard" />
+      </excluded>
+    </library>
     <library name="haml-rails (v1.0.0, rbenv: 2.5.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -3793,6 +3863,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/haml-rails-1.0.0/test" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/haml-rails-1.0.0/gemfiles" />
+      </excluded>
+    </library>
+    <library name="haml-rails (v2.0.1, rbenv: 2.6.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/haml-rails-2.0.1/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/haml-rails-2.0.1/test" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/haml-rails-2.0.1/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/haml-rails-2.0.1/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/haml-rails-2.0.1/test" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/haml-rails-2.0.1/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/haml-rails-2.0.1/test" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/haml-rails-2.0.1/gemfiles" />
       </excluded>
     </library>
     <library name="hamlit (v2.9.2, rbenv: 2.6.2) [gem]" type="rubylib">
@@ -3825,6 +3914,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/hamlit/2.9.3" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/hamlit-2.9.3/bin" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/hamlit-2.9.3/exe" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/hamlit-2.9.3/ext" />
@@ -3832,6 +3922,7 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/hamlit-2.9.3/benchmark" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/hamlit/2.9.3" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/hamlit-2.9.3/bin" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/hamlit-2.9.3/exe" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/hamlit-2.9.3/ext" />
@@ -4039,6 +4130,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/html2haml-2.2.0/bin" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/html2haml-2.2.0/test" />
+      </excluded>
+    </library>
+    <library name="html2haml (v2.2.0, rbenv: 2.6.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/html2haml-2.2.0/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/html2haml-2.2.0/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/html2haml-2.2.0/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/html2haml-2.2.0/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/html2haml-2.2.0/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/html2haml-2.2.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/html2haml-2.2.0/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/html2haml-2.2.0/test" />
       </excluded>
     </library>
     <library name="htmlcompressor (v0.2.0, rbenv: 2.3.3) [gem]" type="rubylib">
@@ -5965,6 +6075,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/msgpack/1.2.10" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/msgpack-1.2.10/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/msgpack-1.2.10/lib" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/msgpack-1.2.10/spec" />
@@ -5972,6 +6083,7 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/msgpack-1.2.10/doclib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/msgpack/1.2.10" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/msgpack-1.2.10/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/msgpack-1.2.10/lib" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/msgpack-1.2.10/spec" />
@@ -6015,7 +6127,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/msgpack/1.2.9" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/msgpack-1.2.9/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/msgpack-1.2.9/lib" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/msgpack-1.2.9/spec" />
@@ -6023,7 +6134,6 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/msgpack-1.2.9/doclib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/msgpack/1.2.9" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/msgpack-1.2.9/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/msgpack-1.2.9/lib" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/msgpack-1.2.9/spec" />
@@ -6303,12 +6413,14 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/nokogiri/1.10.3" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.3/bin" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.3/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.3/lib" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.3/patches" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/nokogiri/1.10.3" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.3/bin" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.3/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.3/lib" />
@@ -8709,6 +8821,31 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/ruby_parser-3.11.0/compare" />
       </excluded>
     </library>
+    <library name="ruby_parser (v3.13.1, rbenv: 2.6.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/ruby_parser-3.13.1/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/ruby_parser-3.13.1/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/ruby_parser-3.13.1/test" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/ruby_parser-3.13.1/tools" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/ruby_parser-3.13.1/compare" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/ruby_parser-3.13.1/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/ruby_parser-3.13.1/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/ruby_parser-3.13.1/test" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/ruby_parser-3.13.1/tools" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/ruby_parser-3.13.1/compare" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/ruby_parser-3.13.1/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/ruby_parser-3.13.1/test" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/ruby_parser-3.13.1/tools" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/ruby_parser-3.13.1/compare" />
+      </excluded>
+    </library>
     <library name="rubyzip (v1.2.1, rbenv: 2.5.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -9095,6 +9232,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/sexp_processor-4.10.1/test" />
+      </excluded>
+    </library>
+    <library name="sexp_processor (v4.12.0, rbenv: 2.6.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/sexp_processor-4.12.0/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/sexp_processor-4.12.0/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/sexp_processor-4.12.0/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/sexp_processor-4.12.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/sexp_processor-4.12.0/test" />
       </excluded>
     </library>
     <library name="shell (v0.7, rbenv: 2.6.2) [gem]" type="rubylib">
